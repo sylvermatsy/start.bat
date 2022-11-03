@@ -1,2 +1,2 @@
 # start.bat
-start.bat reworked de WayZeTV by Sylver
+start.bat reworked by Sylver
